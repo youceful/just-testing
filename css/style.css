@@ -1,0 +1,24 @@
+body{
+  font-family: Algerian;
+  justify-content: center;
+}
+section{
+  justify-content: center;
+  border:black solid 2px;
+  text-align: center;
+}
+div{
+  text-align: center;
+
+}
+ul{
+  list-style: none;
+  padding: 0;
+  margin-bottom: 0;
+}
+div li{
+  font-size: 2rem;
+  border-top: black solid 2px;
+  margin: 0;
+  padding: 10px;
+}
